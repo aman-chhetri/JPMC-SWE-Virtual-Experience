@@ -15,4 +15,4 @@ Use Perspective to create the chart for the trader's dashboard
 - `Technical Communications` `Financial Analysis` `Web Applications`
 ---
 #### Certificate of Completion
-![Cert](./Aman_Kshetri_JP Morgan_SWE.jpg)
+![Cert](./Aman_Kshetri_JP_Morgan_SWE.jpg)
