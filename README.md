@@ -1,18 +1,19 @@
-# JPMorgan Chase & Co. Software Engineering Virtual Internship
-This repository contains all the submitted patch files of the various tasks assigned by the JPMorgan Chase & Co. Software Engineering Virtual Internship program.
+# JPMorgan Chase & Co. Software Engineering Virtual Experience
+This repository contains all the submitted patch files of the various tasks assigned by the JPMorgan Chase & Co. Software Engineering Virtual Experience program.
 
 ---
-## I have worked on the following tasks during the internship
-#### TASK 1 : Interface with a stock price data feed
-- `Financial Data` `Python3` `Git` `Basic Programming`
+## Brief Info about the tasks that I worked during the course of program.
+### TASK 1 :
+    Implemented an interface with a stock price data feed and set up my system for analysis of the data
+- Practical skills gained: `Financial Data` `Python3` `Git` `Basic Programming`
 
-#### TASK 2 : Use JPMorgan Chase frameworks and tools
-Implement the perspective open source code in preparation for data visualization 
-- `React js` `TypeScript` `Web Applications`
+### TASK 2 :
+    Implemented the Perspective open source code for preparing visualization of trader's data
+- Practical skills gained: `React js` `TypeScript` `Web Applications`
 
-#### TASK 3 : Display data visually for traders
-Use Perspective to create the chart for the trader's dashboard  
-- `Technical Communications` `Financial Analysis` `Web Applications`
+### TASK 3 :
+    Used the perspective tool to create the chart for the trader's dashboard
+- Practical skills gained: `Technical Communications` `Financial Analysis` `Web Applications`
 ---
 #### Certificate of Completion
 ![Cert](./Aman_Kshetri_JP_Morgan_SWE.jpg)
